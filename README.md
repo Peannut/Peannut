@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Walo
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 💬 Ask me about ...
+- 💬 Ask me about how tasty indomie is
 - 📫 How to reach me: **[Twitter](https://twitter.com/peanut_l9)**
 - 😄 Pronouns: she/him Kappa
 - ⚡ Fun fact: I love video games hh
