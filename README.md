@@ -34,3 +34,9 @@
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> </a>
     
 </p>
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/Peannut/github-readme-stats"><img alt="Peannut's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Peannut&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Peannut/github-readme-stats"><img alt="Peannut's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peannut&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
