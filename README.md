@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from Morocco.</h3>
 
 
-## 🙋‍♂️ About Me
+### 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on Walo
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
@@ -14,7 +14,7 @@
 - 😄 Pronouns: she/him Kappa
 - ⚡ Fun fact: I love video games hh
 
-## 🚀 Languages and Tools:
+### 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
@@ -34,7 +34,7 @@
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> </a>
     
 </p>
-## 📊 My Github Stats
+### 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/Peannut/github-readme-stats"><img alt="Peannut's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Peannut&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
