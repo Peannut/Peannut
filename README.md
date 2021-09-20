@@ -1,4 +1,5 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="20px"/></a>
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=zoukaddo)](https://github.com/mohouyizme/1337-readme)<br>
 
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Peanut</h2>
 <h3 align="center">I'm a passionate Full Stack Developer from Morocco.</h3>
