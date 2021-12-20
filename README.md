@@ -1,4 +1,4 @@
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=zoukaddo)](https://github.com/mohouyizme/1337-readme)<br>
+[![42 Profile Card](https://badge42.herokuapp.com/api/stats/zoukaddo?darkmode=true&cursus=42cursus)](https://github.com/Peannut/Peannut/edit/main/README.md)<br>
 
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Peanut</h2>
 <h3 align="center">I'm a passionate Full Stack Developer from Morocco.</h3>
