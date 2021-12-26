@@ -1,7 +1,7 @@
 [![42 Profile Card](https://badge42.herokuapp.com/api/stats/zoukaddo?darkmode=true&cursus=42cursus)](https://github.com/Peannut/Peannut/edit/main/README.md)<br>
 
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Peanut</h2>
-<h3 align="center">I'm a passionate Full Stack Developer from Morocco.</h3>
+<h3 align="center">I'm a passionate Computer Science Student from Morocco.</h3>
 
 
 ### 🙋‍♂️ About Me
