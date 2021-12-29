@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 💬 Ask me about how tasty indomie is
 - 📫 How to reach me: **zakariaspam0@gmail.com** / **[Twitter](https://twitter.com/peanut_l9)**
-- 😄 Pronouns: she/him Kappa
+- 😄 Pronouns: he/him Kappa
 - ⚡ Fun fact: I love video games hh
 
 ### 🚀 Languages and Tools:
