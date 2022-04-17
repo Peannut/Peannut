@@ -2,7 +2,8 @@
 
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Peanut</h2>
 <h3 align="center">I'm a passionate Computer Science Student from Morocco.</h3>
-<img src="https://64.media.tumblr.com/tumblr_lolpmvz5PS1qlfu1ho1_500.gifv" width='550' height='300'  />
+<center>
+    <img src="https://64.media.tumblr.com/tumblr_lolpmvz5PS1qlfu1ho1_500.gifv" width='550' height='300'  /> </center>
 
 ### 🙋‍♂️ About Me
 
