@@ -1,4 +1,5 @@
 [![42 Profile Card](https://badge42.herokuapp.com/api/stats/zoukaddo?darkmode=true&cursus=42cursus)](https://github.com/Peannut/Peannut/edit/main/README.md)<br>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge.mediaplus.ma/darkblue/zoukaddo" alt="zoukaddo's 42 stats" /></a>
 
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Peanut</h2>
 <h3 align="center">I'm a passionate Computer Science Student from Morocco.</h3>
