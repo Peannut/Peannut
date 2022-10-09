@@ -1,6 +1,3 @@
-
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge.mediaplus.ma/darkblue/zoukaddo" alt="zoukaddo's 42 stats" /></a>
-
 <h2 align="center">Hi I'm Peanut</h2>
 <h3 align="center">I'm a passionate Computer Science Student / Artist from Morocco.</h3>
     <img src="https://64.media.tumblr.com/tumblr_lolpmvz5PS1qlfu1ho1_500.gifv" width='550' height='300'  /> 
