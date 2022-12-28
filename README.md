@@ -4,7 +4,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on CPP Modules
+- 🔭 I’m currently working on CUB3D
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 💬 Ask me about how tasty indomie is
