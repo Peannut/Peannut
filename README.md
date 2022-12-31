@@ -1,6 +1,6 @@
 <h2 align="center">Hi I'm Peanut</h2>
 <h3 align="center">I'm a passionate Computer Science Student / Artist from Morocco.</h3>
-    <img src="https://64.media.tumblr.com/tumblr_lolpmvz5PS1qlfu1ho1_500.gifv" width='550' height='300'  /> 
+    <img src="https://i.imgur.com/Dxai41v.gif" width='550' height='300'  /> 
 
 ### 🙋‍♂️ About Me
 
