@@ -1,6 +1,8 @@
 <h2 align="center">Hi I'm Peanut</h2>
 <h3 align="center">I'm a passionate Computer Science Student / Artist from Morocco.</h3>
- [comment]: <>   <img src="https://i.imgur.com/Dxai41v.gif" width='550' height='300'  /> 
+<!---
+<img src="https://i.imgur.com/Dxai41v.gif" width='550' height='300'  /> 
+-->
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/zoukaddo?UM6P=off" alt="zoukaddo's 42 stats" /></a>
 ### 🙋‍♂️ About Me
 
