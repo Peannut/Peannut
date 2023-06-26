@@ -3,7 +3,7 @@
 <!---
 <img src="https://i.imgur.com/Dxai41v.gif" width='550' height='300'  /> 
 -->
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/zoukaddo?UM6P=off" alt="zoukaddo's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/zoukaddo?UM6P=on" alt="zoukaddo's 42 stats" /></a>
 
 ### 🙋‍♂️ About Me
 
