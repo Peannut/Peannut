@@ -7,7 +7,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **sms management prototype**
+- 🔭 I’m currently working on **Competitve Programming**
 - 🌱 I’m currently learning **Fullstack web developement**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 💬 Ask me about how tasty indomie is.
