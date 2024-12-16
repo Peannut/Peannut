@@ -6,7 +6,7 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/zoukaddo?UM6P=on" alt="zoukaddo's 42 stats" /></a>
 
 ### 🙋‍♂️ About Me
-
+my alt : [@zoukaddo](https://github.com/zoukaddo)
 - 🔭 I’m currently working on **Competitve Programming**
 - 🌱 I’m currently learning **Fullstack web developement**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
