@@ -12,7 +12,7 @@ my alt : [@zoukaddo](https://github.com/zoukaddo)
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 💬 Ask me about how tasty indomie is.
 - 📫 How to reach me: **zakariaoukaddour1@gmail.com** / **[Twitter](https://twitter.com/peanut_l9)**
-- ⚡ Fun fact: I love video games hh
+- ⚡ Fun fact: I love video games
 
 
                                                                                                                    
